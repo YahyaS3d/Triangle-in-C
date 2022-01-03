@@ -4,10 +4,13 @@ for example the appliaction will look like that:
 
 Please enter the first character: 
 ^
+
 Please enter the second character: 
 *
+
 Please enter the edge size:
 4
+
 ^^^^*
 ^^^**
 ^^***
